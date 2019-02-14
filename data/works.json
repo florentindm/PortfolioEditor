@@ -1,0 +1,245 @@
+{
+    "infos": {
+        "name": "\n\t\tCamille van Hoof",
+        "title": "Camille van Hoof",
+        "bio": "Camille Van Hoof est une illustratrice et graphiste belge de 23 ans Apr\u00e8s des \u00e9tudes d\u2019illustration, elle publie son premier livre en 2015 (Les petits Commandeurs avec Val\u00e9rie Larrondo au Seuil), puis reprend des \u00e9tudes \u00e0 la Cambre. Elle remplit compulsivement ses carnets \u00e0 dessins, t\u00e9moignages sensibles et amusants des endroits o\u00f9 elle a v\u00e9cu (Paris, Cheltenham, Bruxelles).",
+        "mail": "camillevanhoof@gmail.com",
+        "picture": "bio.jpg",
+        "facebook": "www.facebook.com\/camillepetitechose\/",
+        "tags": [
+            {
+                "id": 1,
+                "string": "Graphisme"
+            },
+            {
+                "id": "597219bbf28a1",
+                "string": "Illustration"
+            },
+            {
+                "id": "5975ec2de7866",
+                "string": "Vid\u00e9o"
+            }
+        ],
+        "menus": [
+            {
+                "string": "Contact",
+                "url": "?page=contact",
+                "name": "contact"
+            },
+            {
+                "string": "Blog",
+                "url": "http:\/\/petitechosequidessine.blogspot.be",
+                "name": "blog"
+            }
+        ],
+        "welcomepicture": "welcome.png"
+    },
+    "works": [
+        {
+            "name": "Dr\u00f4le d'Arbre",
+            "tags": [
+                "597219bbf28a1",
+                "5975ec2de7866"
+            ],
+            "date": "00.2000",
+            "description": "\u00ab\u2009Quelle pagaille! Quel tohu bohut!\u00bb Livre jeunesse publi\u00e9 aux \u00e9ditions Versant Sud, collection les P\u00e9toches, 2015 Les P\u00e9toches, c\u2019est aussi un collectif de jeunes talents bruxellois; qui a mont\u00e9 de A \u00e0 Z une collection jeunesse pour aborder des sujets parfois angoissants.",
+            "cover": "5975e9ae16caa.jpg",
+            "content": [
+                {
+                    "type": "roll",
+                    "format": "landscape",
+                    "content": [
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_1.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_2.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_3.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_4.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_5.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_6.jpg",
+                            "legend": ""
+                        },
+                        {
+                            "type": "image",
+                            "format": "landscape",
+                            "path": "geant_7.jpg",
+                            "legend": ""
+                        }
+                    ],
+                    "legend": ""
+                },
+                {
+                    "type": "html",
+                    "format": "landscape",
+                    "content": "<iframe width=\"100%\" height=\"600\" src=\"https:\/\/www.youtube.com\/embed\/IT5yuvTM37M\" frameborder=\"0\" allowfullscreen=\"\"><\/iframe>",
+                    "legend": ""
+                }
+            ]
+        },
+        {
+            "name": "3Suisse",
+            "tags": [
+                3,
+                2
+            ],
+            "date": "2015",
+            "description": "\u00ab Osez, changez, mixez \u00bb Animation, 2015 Animations pour le spot publicitaire de la collection v\u00eatement 3Suisses de l\u2019\u00e9t\u00e9 2015. Agence: 1kilo3 R\u00e9alisation : Caviar Production digitale: Mountain Viewdsdf\nsdfsdf\nsdf\nsdf\n",
+            "cover": "5975e97d76505.jpg",
+            "content": [
+                {
+                    "type": "roll",
+                    "format": "landscape",
+                    "content": [],
+                    "legend": ""
+                }
+            ]
+        },
+        {
+            "name": "24h du Mans",
+            "tags": [
+                1,
+                "2"
+            ],
+            "date": "2016",
+            "description": "\u00ab Les pilotes s\u2019\u00e9lancent en courant vers leur voiture; sauf Jacky Ickx! \u00bb Traitement visuel de l'information, 2016 Mise en page cartographique de la course du Mans de 1969, qui vit Ickx et Hermann s\u2019affronter dans un duel historique. Nous avons rencontr\u00e9 Jacky Ickx pour lui donner un exemplaire de notre carte. Il a \u00e9t\u00e9 tr\u00e8s \u00e9mu. Format d\u00e9pli\u00e9: 864x297 mm co-con\u00e7u avec Florentin de Moffarts",
+            "cover": "5975e983c0ae4.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "format": "landscape",
+                    "path": "59710e57e11d6jpg",
+                    "legend": ""
+                }
+            ]
+        },
+        {
+            "name": "Agenda Club",
+            "tags": [
+                "597219bbf28a1"
+            ],
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "5975e98e82329.jpg",
+            "content": []
+        },
+        {
+            "name": "Brochure Typo",
+            "tags": [
+                1,
+                2,
+                3
+            ],
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "5975e995111ea.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "format": "landscape",
+                    "path": "",
+                    "legend": ""
+                }
+            ]
+        },
+        {
+            "name": "Calme ton Com'",
+            "tags": [
+                1,
+                2,
+                3
+            ],
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "5975e99ccbadf.gif",
+            "content": []
+        },
+        {
+            "name": "Les Petits Commandeurs",
+            "tags": [
+                1,
+                2,
+                3
+            ],
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "5975e9b502e4a.jpg",
+            "content": []
+        },
+        {
+            "name": "Le Petit Poucert",
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "5975ea7000f31.jpg",
+            "content": [
+                {
+                    "type": "roll",
+                    "format": "landscape",
+                    "content": [],
+                    "legend": ""
+                }
+            ],
+            "tags": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Title",
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "",
+            "content": [
+                {
+                    "type": "image",
+                    "format": "landscape",
+                    "path": "",
+                    "legend": ""
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Title",
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "",
+            "content": [],
+            "tags": []
+        },
+        {
+            "name": "Title",
+            "date": "00.2000",
+            "description": "Description",
+            "cover": "",
+            "content": [],
+            "tags": []
+        }
+    ]
+}

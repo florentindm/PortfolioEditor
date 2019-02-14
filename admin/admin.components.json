@@ -1,0 +1,34 @@
+{
+	"works":{
+		"name": "Title",
+		"date": "00.2000",
+		"description": "Description",
+		"cover": "",
+		"content": [],
+		"tags":[]
+	},
+	"tag":{
+		"id":"{{rand}}",
+		"string":"new tag"
+	},
+	"menu":"New menu",
+	"worktag":"0",
+	"roll":{
+		"type": "roll",
+		"format": "landscape",
+		"content": [],
+		"legend": ""
+	},
+	"html":{
+		"type": "html",
+		"format": "landscape",
+		"content": "",
+		"legend": ""
+	},
+	"image":{
+		"type": "image",
+		"format": "landscape",
+		"path": "",
+		"legend": ""
+	}
+}

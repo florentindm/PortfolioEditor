@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+	text-decoration: none;
+	list-style-type: none;
+	color: black;
+	outline: none;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+html {
+  overflow-y: scroll;
+}

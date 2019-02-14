@@ -1,0 +1,20 @@
+@font-face{
+	font-family: 'Prokyon';
+	src: url('../assets/Prokyon/DTLProkyonST.otf');
+	font-weight: normal;
+}
+@font-face{
+	font-family: 'Prokyon';
+	src: url('../assets/Prokyon/DTLProkyonSTMedium.otf');
+	font-weight: bold;
+}
+@font-face{
+	font-family: 'Prokyon';
+	src: url('../assets/Prokyon/DTLProkyonSTBold.otf');
+	font-weight: bolder;
+}
+@font-face{
+	font-family: 'Prokyon';
+	src: url('../assets/Prokyon/DTLProkyonSTLight.otf');
+	font-weight: lighter;
+}

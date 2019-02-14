@@ -1,0 +1,192 @@
+body{
+	font-family: 'Hind', sans-serif;
+	font-weight: normal;
+	color: black;
+	margin:0 auto;
+}
+#header{
+	font-weight: lighter;
+    color: black;
+	width: 100%;
+	padding-left: 73px;
+	padding-right: 73px;
+	box-sizing: border-box;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 45px;
+}
+#header .title{
+	height: 35px;
+}
+
+#menu{
+	font-size: 14px;
+}
+#menu *{
+	display: inline-block;
+	cursor: pointer;
+}
+#menu *:not(:last-child){
+	margin-right: 10px;
+}
+#menu li:hover{
+	font-weight: bold;
+}
+
+#content{
+	width: 100%;
+	box-sizing: border-box;
+	float: left;
+	padding-bottom: 150px;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+
+.grid.two .item{
+	width: 40%;
+}
+
+#items > .item,
+#content > a > .item{
+	margin: 0 35px;
+}
+
+.item{
+	float: left;
+	margin: 35px;
+	margin-top: 0;
+}
+#content{
+	text-align: center;
+}
+.item.vignette{
+	margin: 0 25px !important;
+	width: 197px;
+	display: inline-block;
+	float: initial;
+}
+.item.vignette .content{
+	height: 200px;
+}
+.item.square{
+	width: 50%;
+	padding-bottom: 50%;
+}
+.item.square .content{
+	padding-bottom: 100%;
+}
+.item.landscape{
+	width: 90%;
+}
+.item.landscape .content{
+	padding-bottom: 66%;
+}
+.item.portrait{
+	width: 50%;
+}
+.item.portrait .content{
+	padding-bottom: 135%;
+}
+.item.bigsquare{
+	width: 100%;
+}
+.item.bigsquare .content{
+	padding-bottom: 100%;
+}
+.item > div{
+	width: 100%;
+}
+.item .label.title {
+    font-size: 15px;
+    padding-top: 14px;
+    text-align: center;
+}
+.item .label {
+    height: 53px;
+    font-weight: lighter;
+    box-sizing: border-box;
+}
+.item .label.legend{
+	font-size: 13px;
+	padding-top: 13px;
+	text-align: left;
+	font-style: normal;
+}
+.item .content{
+	text-align: center;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+	background-color: #eee;
+	background-size: cover;
+	background-position: center center;
+}
+.item .content > *{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.infos{
+    margin: 35px;
+    width: 300px;
+    text-align: left;
+    float: left;
+}
+.infos .date{
+	font-size: 9px;
+	line-height: 20px;
+}
+.infos .name{
+	font-weight: bold;
+	font-size: 19px;
+	margin-bottom: 5px;
+}
+.plaintext{
+    font-weight: lighter;
+    font-size: 1em;
+    line-height: 1.3em;
+    text-align: left;
+}
+.infos .tags{
+	margin-top: 3px;
+}
+.infos .tags li{
+	font-size: 11px;
+	display: inline-block;
+	margin-right: 10px;
+	border-radius: 3px;
+	background-color: #ccc;
+	padding: 2px 4px;
+}
+.icon{
+	width: 22px;
+	margin-bottom: -6px;
+}
+.image{
+	background-size: cover;
+	background-position: center center;
+	float: left;
+}
+#items{
+	min-height: 100px;
+}
+.active{
+	font-weight: bold;
+}
+.incactive{
+	font-weight: initial;
+}
+#welcome{
+	width: 310px;
+	height: 600px;
+	margin: 0 auto;
+	background-position: left;
+}
+#welcome:hover{
+	background-position: right;
+}
